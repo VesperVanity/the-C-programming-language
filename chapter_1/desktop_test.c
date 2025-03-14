@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "Currently testing a new setup.");
+	printf("%s\n", "Currently testing a new setup, moving soon also.");
 	return 0;
 }
