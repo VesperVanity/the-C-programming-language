@@ -12,5 +12,6 @@ Chapter 1 - Exercise 0
 int main(void)
 {
 	printf("%s\n", "sys is reset fully and deleted.");
+	printf("%s\n", "return to thinkpad.");
 	return 0;
 }
