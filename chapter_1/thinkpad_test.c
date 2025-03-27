@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "swap continents");
+	printf("%s\n", "swap continents, moving");
 	return 0;
 }
