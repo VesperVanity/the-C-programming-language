@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "forward");
+	printf("%s\n", "apartment visit");
 	return 0;
 }
