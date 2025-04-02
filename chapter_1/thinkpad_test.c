@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "reach below");
+	printf("%s\n", "real life, only.");
 	return 0;
 }
