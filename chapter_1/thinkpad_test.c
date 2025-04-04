@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "neck injury");
+	printf("%s\n", "neck injury part 2");
 	return 0;
 }
