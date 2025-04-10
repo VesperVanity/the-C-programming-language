@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "reset systems");
+	printf("%s\n", "love warhammer");
 	return 0;
 }
