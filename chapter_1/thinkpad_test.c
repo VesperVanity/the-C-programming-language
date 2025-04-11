@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "love warhammer");
+	printf("%s\n", "work work");
 	return 0;
 }
