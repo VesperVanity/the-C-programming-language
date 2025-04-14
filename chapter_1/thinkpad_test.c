@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "move move");
+	printf("%s\n", "no time");
 	return 0;
 }
