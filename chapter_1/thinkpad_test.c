@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "less time");
+	printf("%s\n", "more time");
 	return 0;
 }
