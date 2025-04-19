@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "mechanical or electrical engineering?");
+	printf("%s\n", "math");
 	return 0;
 }
