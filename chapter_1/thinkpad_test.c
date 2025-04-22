@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "math: fractions");
+	printf("%s\n", "ill, vertigo");
 	return 0;
 }
