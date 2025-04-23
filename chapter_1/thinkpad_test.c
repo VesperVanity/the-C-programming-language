@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "ill, vertigo");
+	printf("%s\n", "flying and moving, one chapter of life ends, another opens.");
 	return 0;
 }
