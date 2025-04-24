@@ -11,6 +11,6 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
-	printf("%s\n", "flying and moving, one chapter of life ends, another opens.");
+	printf("%s\n", "very long flight today, wish me luck, Christ is King.");
 	return 0;
 }
