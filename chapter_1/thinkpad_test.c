@@ -11,6 +11,8 @@ Chapter 1 - Exercise 0
 
 int main(void)
 {
+	int sicknessActive = 1;
+	int flightSurvived = 0;
 	printf("%s\n", "very long flight today, wish me luck, Christ is King.");
 	return 0;
 }
